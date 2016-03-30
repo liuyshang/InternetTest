@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">internet</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="http_url_connection">HttpUrlConnection</string>
+    <string name="http_client">HttpClient</string>
+</resources>
